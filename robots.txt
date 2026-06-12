@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agriculture-plastic-en.pages.dev/sitemap.xml
